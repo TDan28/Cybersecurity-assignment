@@ -2,7 +2,7 @@
 
 An external attacker could execute a phishing attack (threat) by exploiting weak faculty passwords or active accounts of former employees (vulnerability), resulting in unauthorized access and theft of sensitive passport copies and student records (impact).  
 
-​***Q8. What is an attack surface?**  
+​***Q8. What is an attack surface?***  
 
 An attack surface is the total sum of all possible points, pathways, and entry ways (such as internet-facing systems, accounts, software, and hardware) where an unauthorized user or attacker can try to enter or extract data from a network.  
 
